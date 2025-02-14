@@ -1,7 +1,5 @@
 title: Krishna Vamsi
 #logo
-description: Cybersecurity professional with expertise in vulnerability management, penetration testing, threat intelligence, and cloud security. With a Master’s in Cybersecurity from the University of Tampa and multiple industry certifications, including CompTIA Pentest+ and CEH Master, I have honed my skills in web application security, SIEM platforms, IDS/IPS log analysis, and compliance frameworks like GDPR, HIPAA, and NIST.
-             My journey spans hands-on experience as a Security Analyst, where I leverage tools like Burp Suite, Nikto, OWASP ZAP, Nessus, and Nmap to assess and mitigate security risks. I have performed extensive research on cryptographic vectors, CDN configurations, SameSite cookie testing, and URL whitelisting implementations, contributing to robust security strategies. My participation in CTF competitions, including victories at Bsides Tampa and OWASP Q2, reflects my problem-solving approach to cybersecurity challenges.
-             Beyond technical expertise, I have co-founded startups, led youth empowerment initiatives, and delivered cybersecurity presentations, reinforcing my commitment to knowledge-sharing. My goal is to continuously evolve in cybersecurity, securing digital assets and fortifying defenses against emerging threats.
+description: Cybersecurity professional | CEH | Pentest+
 #show_downloads: true
 theme: jekyll-theme-hacker
